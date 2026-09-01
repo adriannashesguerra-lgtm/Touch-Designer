@@ -1,0 +1,16 @@
+download OBS (if u dont have it):
+ https://obsproject.com/
+
+download SPOUT2 OBS plugin:
+ https://github.com/Off-World-Live/obs-spout2-plugin
+
+open the TouchDesigner file so that OBS can detect the spoutout TOP
+
+in OBS Add Source > Spout2 Capture > in SENDER choose the spoutout 
+
+turn on OBS virtual camera
+
+the python code should read the OBS virtual camera
+
+
+ryansmolen33@gmail.com
