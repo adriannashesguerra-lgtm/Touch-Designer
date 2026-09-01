@@ -12,5 +12,3 @@ turn on OBS virtual camera
 
 the python code should read the OBS virtual camera
 
-
-ryansmolen33@gmail.com
