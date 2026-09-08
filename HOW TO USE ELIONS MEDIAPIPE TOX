@@ -1,0 +1,5 @@
+put the handtracking1.toe inside a folder
+put the mediapipe.tox inside the same folder
+open handtracking1.toe and press on the mediapipe container and go to "Common"
+in Common look for external tox path and press the plus button
+select the mediapipe.tox you put in said folder
